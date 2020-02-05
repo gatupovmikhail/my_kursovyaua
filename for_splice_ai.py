@@ -30,7 +30,7 @@ def zapis(buk):
 
 
 
-name_fgens='gens_spliceAI_sorted.txt'
+name_fgens='gens_spliceAI_sorted_concantenated.txt'
 zagprint(name_fgens)
 mfile=open(name_fgens,'r')
 name_genom_file='changed_genom.fa'
